@@ -6,5 +6,13 @@ So far my experience has been related to programming, testing and commissioning 
 My hobby is C++ and Java programming, and I will successfully try to upload more and more files here.
 
 ## Skills
-
+* Jira
+* TestLink
+* Java
+* Confluence
+* C++
+* Selenium Webdriver
+* SQL
+* Cucumber/Gherkin
+* Postman
 
