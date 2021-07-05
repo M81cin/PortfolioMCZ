@@ -18,7 +18,7 @@ My hobby is **C++** and **Java** programming, and I will gradually try to upload
 
 ### Projects
 
-* Tic-Tac-Toe
-This project was created using Java+Swing.
+* Tic-Tac-Toe  
+This project was created using Java+Swing.  
 
-<img src="https://github.com/M81cin/PortfolioMCZ/blob/main/K%C3%B3%C5%82ko%20i%20krzy%C5%BCyk%20by%20MCZ.gif" height="500" width="500 />
+[<img src="https://github.com/M81cin/PortfolioMCZ/blob/main/K%C3%B3%C5%82ko%20i%20krzy%C5%BCyk%20by%20MCZ.gif" height="500" width="500 />]  
