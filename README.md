@@ -21,7 +21,7 @@ My hobby is **C++** and **Java** programming, and I will gradually try to upload
 ✅ **Tic-Tac-Toe** (Polish: *Kółko i krzyżyk*)   
 Language |
 -------- |
-Java (+ Swing) |
+Java + Swing |
 
 Sample animation showing the application:
 <img src="https://github.com/M81cin/PortfolioMCZ/blob/main/K%C3%B3%C5%82ko%20i%20krzy%C5%BCyk%20by%20MCZ.gif" height="400" width="400" />  
