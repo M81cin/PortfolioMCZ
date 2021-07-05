@@ -1,4 +1,4 @@
-# PortfolioMCZ
+## PortfolioMCZ
 
 ### About
 My name is Marcin and I a passionate **programmer** and **test automation engineer**.
