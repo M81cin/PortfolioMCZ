@@ -6,15 +6,15 @@ So far my experience has been related to programming, testing and commissioning 
 My hobby is **C++** and **Java** programming, and I will gradually try to upload more and more of my work here, where possible to share publicly.  
 
 ### Skills
-:one: Jira
-:two: TestLink
-:three: Java
-:four: Confluence
-:five: C++
-:six: Selenium Webdriver
-:seven: SQL
-:eight: Cucumber/Gherkin
-:nine: Postman
+:one: Jira  
+:two: TestLink  
+:three: Java  
+:four: Confluence  
+:five: C++  
+:six: Selenium Webdriver  
+:seven: SQL  
+:eight: Cucumber/Gherkin  
+:nine: Postman  
 
 ### Projects
 
