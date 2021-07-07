@@ -19,20 +19,20 @@ My hobby is **C++** and **Java** programming, and I will gradually try to upload
 ### My Projects
 
 ---
-✅ **Tic-Tac-Toe** (Polish: *Kółko i krzyżyk*)   
+✅ **Tic-Tac-Toe** (Polish: *Kółko i krzyżyk*) | **[Go to repository](https://github.com/M81cin/TicTacToe)**  
 Language |
 -------- |
 Java + Swing |
 
 Sample animation showing the application:  
 <img src="https://github.com/M81cin/PortfolioMCZ/blob/main/K%C3%B3%C5%82ko%20i%20krzy%C5%BCyk%20by%20MCZ.gif" height="400" width="400" />  
-**[Go to repository](https://github.com/M81cin/TicTacToe)**  
+
 
 ---
-✅ **Fibonacci numbers**   
+✅ **Fibonacci numbers** | **[Go to repository](https://github.com/M81cin/FibonacciNumbers)**  
 Language |
 -------- |
 Java |
 
 Returns first n Fibonacci numbers based on user entry.  
-**[Go to repository](https://github.com/M81cin/FibonacciNumbers)**  
+
