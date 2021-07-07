@@ -18,7 +18,8 @@ My hobby is **C++** and **Java** programming, and I will gradually try to upload
 
 ### Projects
 
-✅ **Tic-Tac-Toe** (Polish: *Kółko i krzyżyk*) https://github.com/M81cin/TicTacToe     
+✅ **Tic-Tac-Toe** (Polish: *Kółko i krzyżyk*)
+https://github.com/M81cin/TicTacToe     
 Language |
 -------- |
 Java + Swing |
