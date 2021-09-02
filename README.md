@@ -48,8 +48,8 @@ Quick sort algorithm implementation.
 
 ---
 ✅ **Selection sort** | **[Go to repository](https://github.com/M81cin/SelectionSortConsole)**  
-Language | 
--------- | 
-Java | 
+Language |  
+-------- |  
+Java |  
 
 Selection sort algorithm implementation.
