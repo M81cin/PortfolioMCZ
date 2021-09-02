@@ -20,9 +20,9 @@ My hobby is **C++** and **Java** programming, and I will gradually try to upload
 
 ---
 ✅ **Tic-Tac-Toe** (Polish: *Kółko i krzyżyk*) | **[Go to repository](https://github.com/M81cin/TicTacToe)**  
-Language |
--------- |
-Java + Swing |
+Language | 
+-------- | 
+Java + Swing | 
 
 Sample animation showing the application:  
 <img src="https://github.com/M81cin/PortfolioMCZ/blob/main/K%C3%B3%C5%82ko%20i%20krzy%C5%BCyk%20by%20MCZ.gif" height="400" width="400" />  
@@ -30,9 +30,26 @@ Sample animation showing the application:
 
 ---
 ✅ **Fibonacci numbers** | **[Go to repository](https://github.com/M81cin/FibonacciNumbers)**  
-Language |
--------- |
-Java |
+Language | 
+-------- | 
+Java | 
 
 Returns first n Fibonacci numbers based on user entry.  
 
+
+---
+✅ **Quick sort** | **[Go to repository](https://github.com/M81cin/QuickSortConsole)**  
+Language | 
+-------- | 
+Java | 
+
+Quick sort algorithm implementation.
+
+
+---
+✅ **Selection sort** | **[Go to repository](https://github.com/M81cin/SelectionSortConsole)**  
+Language | 
+-------- | 
+Java | 
+
+Selection sort algorithm implementation.
